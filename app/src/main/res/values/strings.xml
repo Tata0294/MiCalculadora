@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mi Calculadora</string>
+    <string name="calc.hint.input">Ingrese valor</string>
+    <string name="calc.btn.siete">7</string>
+    <string name="calc.btn.cuatro">4</string>
+    <string name="calc.btn.uno">1</string>
+    <string name="calc.btn.punto">.</string>
+    <string name="calc.btn.ocho">8</string>
+    <string name="calc.btn.cinco">5</string>
+    <string name="calc.btn.dos">2</string>
+    <string name="calc.btn.cero">0</string>
+    <string name="calc.btn.nueve">9</string>
+    <string name="calc.btn.limpiar">C</string>
+    <string name="calc.btn.seis">6</string>
+    <string name="calc.btn.Div">÷</string>
+    <string name="calc.btn.mul">x</string>
+    <string name="calc.btn.tres">3</string>
+    <string name="calc.btn.res">-</string>
+    <string name="calc.btn.suma">+</string>
+    <string name="calc.btn.igual">=</string>
+</resources>

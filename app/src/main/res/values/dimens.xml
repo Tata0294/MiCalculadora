@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alc.input.height">96dp</dimen>
+    <dimen name="cal.btn.size">64dp</dimen>
+    <dimen name="cal.btn.textSize">28sp</dimen>
+    <dimen name="calc.horizontal.margin">16dp</dimen>
+    <dimen name="cal.btn.size.horizontal">93dp</dimen>
+</resources>
