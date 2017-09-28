@@ -18,4 +18,5 @@
     <string name="calc.btn.res">-</string>
     <string name="calc.btn.suma">+</string>
     <string name="calc.btn.igual">=</string>
+    <string name="message.exp.incorrect">La expresión es incorrecta</string>
 </resources>
